@@ -5,9 +5,14 @@ import pyperclip
 
 # The string to be encrypted/decrypted:
 message = 'This is my secret message.'
+message = 'To make sure that the Peacock Tailors\' getaway trip goes silky smooth, they are looking to buy.'
+message = 'Fly And Fall rose into the air, as unstoppable as a hurricane.'
+message = 'Beetle Bug laughed as he crawled along, "Have you ever seen such a wild and confusing spider web?" Beetle had always thought spiders were neat, clean, and tidy. But that must not be true, at least not in this case.'
 
 # The encryption/decryption key:
 key = 13
+key = 12
+key = 37
 
 # Whether the program encrypts or decrypts:
 mode = 'encrypt' # Set to either 'encrypt' or 'decrypt'.
