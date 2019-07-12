@@ -29,4 +29,5 @@ for key in range(len(SYMBOLS)):
             # Append the symbol without encrypting/decrypting:
             translated += symbol
 
-
+    # Display every possible decryption:
+    print('Key #%s: %s' % (key, translated))
